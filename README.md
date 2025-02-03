@@ -83,3 +83,15 @@ Feel free to contribute and improve this calculator app! 🚀
 
 
 <!-- flutter pub run build_runner build -->
+
+
+
+![image](https://github.com/user-attachments/assets/07b9e509-23f1-43b0-80f4-9094abc60b75)
+
+![image](https://github.com/user-attachments/assets/6a246d95-df42-4b37-a138-826830437e44)
+
+
+![image](https://github.com/user-attachments/assets/3f0dc8e7-d520-4ad5-8b5d-2ce382aadcb6)
+
+![image](https://github.com/user-attachments/assets/6b9c8e5c-3091-4be2-aab7-2f36959c593d)
+
